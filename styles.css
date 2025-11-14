@@ -1,0 +1,9 @@
+.container{
+    margin: 0 auto;
+    width: 480px;
+    height: 480px;
+    display: flex;
+    flex-wrap: wrap;
+    
+    border: 3px, solid aqua;
+}
